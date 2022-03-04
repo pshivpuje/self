@@ -19,11 +19,17 @@ public class App
 		}
 		return rev;
 	}
+	public void uselessmethod() {
+		
+	}
+	public void anotheruselessmethod() {
+		
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );System.out.println( "Hello World!" );System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
         
     }
 }
